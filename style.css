@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2019/12/06/15/50/business-4677631_960_720.jpg);
+    background-size: cover;
+}
+
+.wrap{
+    width: 700px;
+    height: 600px;
+    margin: 30px auto;
+}
+
+h1{
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    border-bottom: 2px solid white;
+}
+
+table{
+    font-size: 20px;
+
+}
+
+td{
+padding: 30px;
+}
+.txt{
+    text-align: center;
+    width: 350px;
+    height: 70px;
+    border-radius: 10px;
+} 
+
+.txtarea{
+    width: 900px;
+    height: 150px;
+    border-radius: 10px;
+} 
+
+.btn{
+     width: 500px;
+     height: 40px;
+     background-color: black;
+     border-radius: 8px;
+     font-size: 20px;
+     color: antiquewhite;
+     align-content: center;
+
+}
